@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-multi-source-inventory-nuxt",
+  "capabilityKey": "planned:ecommerce:multi-source-inventory",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-multi-source-inventory-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/multi-source-inventory.md",
+  "presentationPlan": "projects/ecommerce/nuxt/multi-source-inventory.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
